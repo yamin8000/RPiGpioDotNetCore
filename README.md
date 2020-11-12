@@ -10,3 +10,5 @@ Program in Windows IoT Core is actually a *background task* you can read more ab
 program is created using **C#** and **.NET Core**
 # Server/Service
 Server can be implemented using anything you desire but in this sample **PHP** is used and database is **SQL**
+# License
+This software is licensed under [GPLv3](https://github.com/yamin8000/RPiGpioDotNetCore/blob/main/LICENSE)
